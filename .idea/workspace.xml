@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a4e7db4-1301-40c9-bbd3-47acc172749b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fczUq6sp54nlA5U8paSISoOE8o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last.edited.regexp" value="1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="?" />
+      <command value="&quot;?&quot;" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="testi" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a4e7db4-1301-40c9-bbd3-47acc172749b" name="Default Changelist" comment="" />
+      <created>1596532187549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596532187549</updated>
+      <workItem from="1596532193172" duration="253000" />
+      <workItem from="1596532557492" duration="1321000" />
+      <workItem from="1596534023457" duration="754000" />
+      <workItem from="1596650550696" duration="4394000" />
+      <workItem from="1596731375195" duration="1602000" />
+      <workItem from="1596882018731" duration="92000" />
+      <workItem from="1596973107528" duration="14350000" />
+      <workItem from="1596994167583" duration="6346000" />
+      <workItem from="1597060182544" duration="12709000" />
+      <workItem from="1597087692897" duration="2842000" />
+      <workItem from="1597174257538" duration="1687000" />
+      <workItem from="1597211176798" duration="2566000" />
+      <workItem from="1597240225201" duration="9880000" />
+      <workItem from="1597251791000" duration="1707000" />
+      <workItem from="1597332037942" duration="109000" />
+      <workItem from="1597391174699" duration="7471000" />
+      <workItem from="1597411347435" duration="8276000" />
+      <workItem from="1597497385837" duration="16849000" />
+      <workItem from="1597593525383" duration="8343000" />
+      <workItem from="1597603199250" duration="224000" />
+      <workItem from="1597692280170" duration="4107000" />
+      <workItem from="1597746476399" duration="5082000" />
+      <workItem from="1597764698163" duration="5442000" />
+      <workItem from="1597770952012" duration="1490000" />
+      <workItem from="1597816982562" duration="4230000" />
+      <workItem from="1635187693049" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1322" height="131" key="GridCell.Tab.0.bottom" timestamp="1635187768622">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="131" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1635187768622" />
+    <state width="1322" height="131" key="GridCell.Tab.0.center" timestamp="1635187768622">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="131" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1635187768622" />
+    <state width="1322" height="131" key="GridCell.Tab.0.left" timestamp="1635187768622">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="131" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1635187768622" />
+    <state width="1322" height="131" key="GridCell.Tab.0.right" timestamp="1635187768622">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="131" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1635187768622" />
+  </component>
+</project>
